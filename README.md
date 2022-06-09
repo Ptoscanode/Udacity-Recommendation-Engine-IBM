@@ -2,13 +2,13 @@
 
 ## Project Motivation
 
-For this project we will analyze the interactions that users have with articles on the IBM Watson Studio platform, and make recommendations to them about new articles you think they will like. Below you can see an example of what the dashboard could look like displaying articles on the IBM Watson Platform.
+For this project we will analyze the interactions that users have with articles on the IBM Watson Studio platform, and make recommendations to them about new articles we think they will like.
 
 The project divided into the following tasks:
 
 I. Exploratory Data Analysis
 
-Before making recommendations of any kind, you will need to explore the data you are working with for the project. Dive in to see what you can find. There are some basic, required questions to be answered about the data you are working with throughout the rest of the notebook. Use this space to explore, before you dive into the details of your recommendation system in the later sections.
+Before making recommendations of any kind, we will need to explore the data for the project. Dive in to see what you can find. There are some basic, required questions to be answered about the data you are working with throughout the rest of the notebook. Use this space to explore, before you dive into the details of your recommendation system in the later sections.
 
 II. Rank Based Recommendations
 
@@ -44,9 +44,12 @@ This project requires Python 3.x and the following Python libraries installed
 
 ## Acknowledgements
 
-https://en.wikipedia.org/wiki/Knowledge-based_recommender_system#:~:text=Knowledge%2Dbased%20recommender%20systems%20(knowledge,be%20recommended%20in%20which%20context).
-
 https://towardsdatascience.com/introduction-to-recommender-systems-1-971bd274f421
+
+https://en.wikipedia.org/wiki/Knowledge-based_recommender_system
+
+https://www.analyticsvidhya.com/blog/2015/08/beginners-guide-learn-content-based-recommender-systems
 
 https://en.wikipedia.org/wiki/Collaborative_filtering
 
+https://en.wikipedia.org/wiki/Matrix_factorization_(recommender_systems)
