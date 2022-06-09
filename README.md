@@ -46,7 +46,7 @@ This project requires Python 3.x and the following Python libraries installed
 
 `articles_community.csv`: CSV file containing articles and the details of how users interacted with them
 
-`user-item-interactions`: CSV file with more content abour the articles
+`user-item-interactions`: CSV file with more information abour the articles
 
 ### Folder libraries
 
