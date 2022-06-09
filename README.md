@@ -54,7 +54,7 @@ This project requires Python 3.x and the following Python libraries installed
 
 
 ## Results
-Results and discussions about next steps can be found in `Recommendations_with_IBM.ipynb`
+Results and discussions about next steps can be found in `Toscano_Paulo_Recommendations_with_IBM.ipynb`
 
 
 ## Acknowledgements
