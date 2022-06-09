@@ -38,6 +38,19 @@ This project requires Python 3.x and the following Python libraries installed
 
 ## Files in the repository
 
+`Recommendations_with_IBM.ipynb`: Jupyter notebook containing the analysis of the project
+
+`Recommendations_with_IBM.html`: HTML version of the Jupyter notebook
+
+### Folder data
+
+`articles_community.csv`: CSV file with user-item interactions
+
+`user-item-interactions`: CSV file with indexed items
+
+### Folder libraries
+`project_tests_new.py`: skdjfhsdkfjhskdjfh 
+
 
 ## Results
 Results and discussions about next steps can be found in `Recommendations_with_IBM.ipynb`
