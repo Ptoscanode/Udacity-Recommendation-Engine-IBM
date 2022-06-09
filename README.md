@@ -38,9 +38,9 @@ This project requires Python 3.x and the following Python libraries installed
 
 ## Files in the repository
 
-`Recommendations_with_IBM.ipynb`: Jupyter notebook containing the analysis of the project
+`Toscano_Paulo_Recommendations_with_IBM.ipynb`: Jupyter notebook containing the analysis of the project
 
-`Recommendations_with_IBM.html`: HTML version of the Jupyter notebook
+`Toscano_Paulo_Recommendations_with_IBM.html`: HTML version of the Jupyter notebook
 
 ### Folder data
 
